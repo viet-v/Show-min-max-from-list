@@ -1,0 +1,10 @@
+{
+  "name": "js-lesson08-show-min-and-max-from-list",
+  "version": "1.0.0",
+  "description": "Find min & max from list. Show result.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": [
+    "min max"
+  ]
+}
